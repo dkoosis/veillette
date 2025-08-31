@@ -1,100 +1,82 @@
 {{Other uses|Veillette (disambiguation){{!}}Veillette}}
 {{Infobox person
-| honorific_prefix   = 
 | name               = Joe Veillette
-| honorific_suffix   = 
-| image              = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
-| image_upright      = 
-| landscape          = <!-- yes, if wide image, otherwise leave blank -->
-| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
-| caption            = 
-| native_name        = 
-| native_name_lang   = 
-| pronunciation      = 
-| birth_name         = <!-- only use if significantly different from common name -->
 | birth_date         = {{Birth date and age|1946|03|13}}
-| birth_place        = [[Brooklyn]], New York
-| baptised           = <!-- will not display if birth_date is entered -->
-| disappeared_date   = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
-| disappeared_place  = 
-| disappeared_status = 
-| death_date         = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (enter DEATH date then BIRTH date (e.g., ...|1967|31|8|1908|28|2}} use both this parameter and |birth_date to display the person's date of birth, date of death, and age at death) -->
-| death_place        = 
-| death_cause        = <!--should only be included when the cause of death has significance for the subject's notability-->
-| body_discovered    = 
-| resting_place      = 
-| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
-| burial_place       = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
-| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
-| monuments          = 
+| birth_place        = [[Brooklyn]], New York, U.S.
 | nationality        = American
-| other_names        = 
-| siglum             = 
-| citizenship        = 
-| education          = 
-| alma_mater         = 
 | occupation         = Luthier
-| years_active       = 
-| era                = 
-| employer           = 
-| organization       = 
-| agent              = <!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source -->
-| known_for          = 
-| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
-| style              = 
-| net_worth          = <!-- Net worth should be supported with a citation from a reliable source -->
-| height             = <!-- "X cm", "X m" or "X ft Y in" plus optional reference (conversions are automatic) -->
-| television         = 
-| title              = <!-- Formal/awarded/job title. The parameter |office=may be used as an alternative when the label is better rendered as "Office" (e.g. public office or appointments) -->
-| term               = 
-| predecessor        = 
-| successor          = 
-| party              = 
-| movement           = 
-| opponents          = 
-| boards             = 
-| criminal_charges   = <!-- Criminality parameters should be supported with citations from reliable sources -->
-| criminal_penalty   =  
-| criminal_status    = 
-| spouse             = <!-- Use article title or common name -->
-| partner            = <!-- (unmarried long-term partner) -->
-| children           = 
-| parents            = <!-- overrides mother and father parameters -->
-| mother             = <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
-| father             = <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
-| relatives          = 
-| family             = 
-| callsign           = 
-| awards             = 
 | website            = http://www.veilletteguitars.com/
-| module             = 
-| module2            = 
-| module3            = 
-| module4            = 
-| module5            = 
-| module6            = 
-| signature          = 
-| signature_size     = 
-| signature_alt      = 
-| footnotes          = 
 }}
-'''Joe Veillette''' (born March 13, 1946), is a [[luthier]] and the owner of Veillette Guitars. He specializes in the crafting of unusual and innovative handmade guitars, basses, and other stringed instruments.
+'''Joe Veillette''' (born March 13, 1946) is an American [[luthier]] and the founder of Veillette Guitars, based in Woodstock, New York. He is known for pioneering baritone guitars and high-tuned 12-string instruments such as the Gryphon. Over a career spanning five decades, Veillette has been recognized for applying his architectural training and experience as a performing musician to guitar design, producing instruments adopted by a wide range of prominent artists.<ref name="FretboardJournal2010">{{cite journal |last=Eck |first=Michael |title=Alchemy; Joe Veillette unleashed the magical energy of wood |journal=The Fretboard Journal |volume=20 |date=Winter 2010 |page=78}}</ref>
 
-== Early life ==
-Veillette is originally from [[Brooklyn]], New York. He earned a Bachelor of Architecture degree at [[City College of New York]], and was subsequently employed as an architectural designer on Park Avenue. 
+== Early life and education ==
+Veillette was born in Brooklyn, New York. Growing up, he listened extensively to doo-wop groups such as The Penguins and Dion and the Belmonts, as well as singers like Jackie Wilson.<ref name="FretboardJournal2010" /> He studied architecture at the [[City College of New York]], where he earned a Bachelor of Architecture. After graduation he worked as a designer on Park Avenue, a role he described as prestigious but ultimately unfulfilling.<ref name="FretboardJournal2010" />
 
-== "Woodstock Music Products" and "Veillette Guitars" ==
-He took a class in guitar-making, taught by luthier [[Michael_Gurian_(luthier)|Michael Gurian]] in 1971, to learn how to repair the broken headstock on his Gibson J-45. He became interested in guitar building and teamed up with fellow architectural student Harvey Citron, and formed Veillette-Citron in 1976.<ref>{{cite journal |last=Eck |first=Michael |title=Alchemy; Joe Veillette unleashed the magical energy of wood |journal=The Fretboard Journal |volume=20 |date=Winter 2010 |page=78}}</ref><ref>{{cite journal |last=Kotapish |first=Paul |title=Veillette Acoustic Gryphon High 12 Review, A striking, high-tuned 12-string that stakes out new tone territory |publisher=Acoustic Guitar |date=November 2007}}</ref> Veillette-Citron collaborated with [[John Sebastian]] to develop and market the first production baritone guitar. Veillette-Citron pioneered neck-thru-body construction, made innovations in instrument electronics, and set new trends in modern electric bass design. Early Veillete-Citron instruments are rare and highly sought-after as a result of their excellence in craftsmanship and innovative designs. The company moved from Brooklyn to Kingston NY in 1976. The partnership lasted until 1983.<ref>{{cite journal |last=Rorick |first=Baker |title=Sculptured Beauties, The Age Of Veillette-Citron Guitars |publisher=Guitar Shop |date=November 1997 |page=84}}</ref>
+== Transition to luthiery ==
+The catalyst for Veillette’s shift from architecture to instrument building came in 1971 when the headstock on his Gibson J-45 acoustic broke. After several failed repairs, he took a guitar-making class from [[Michael Gurian (luthier)|Michael Gurian]] in Greenwich Village with the initial goal of fixing his own guitar. The experience sparked an interest that led him to leave architecture to pursue luthiery full-time.<ref name="FretboardJournal2010" />
 
-Veillette formed Woodstock Music Products in 1991, in partnership with bass-maker Stuart Spector. One of Veillette's innovations developed during the partnership was the Deep-6 neck, which allowed a baritone conversion for Fender-style instruments.<ref>{{cite journal |last=Thomas |first=Bob |title=Veillette Gryphon High 12, Acoustic 12-string  |publisher=Performing Musician Magazine |date=April 2009}}</ref> Veillette, in conjunction with bass-maker Michael Tobias, developed the Avante line of instruments for Alvarez. The Veillette/Spector partnership ended in 1994.
+His approach to instrument design reflected his architectural background: emphasizing structure, ergonomics, and function. Veillette described his philosophy as creating “tools for musicians,” designed to solve problems and expand expressive possibilities rather than serve as decorative objects.<ref name="FretboardJournal2010" />
 
-Veillette then established Veillette Guitars, in Woodstock NY.  He has focused on making unusual instruments, rather than trying to compete in a saturated market of OEM clone-makers. One of his most notable guitars is the Gryphon - a short (18.5.1”) scale 12 string guitar tuned D-D in unison courses, almost a full octave above standard tuning. This instrument can be played to sound like a [[mandolin]], [[bouzouki]], [[Cuatro_(instrument)|cuatro]], and other traditional folk instruments. Veillette licensed production of his acoustic Gryphon model as a high quality import from Korea, and revived the Avante name to market this instrument as well as versions of the acoustic baritone 6 and 12 string he is also known for.<ref>{{cite magazine |last=Gore |first=Joe |title=Veillette Avante Gryphon Review |magazine=Premier Guitar |date=March 2015 |page=78}}</ref><ref>{{cite journal |last=Brown |first=Pete |title=Avante Gryphon, Game Changer? |publisher=Vintage Guitar Magazine |date=March 2015}}</ref>
+== Veillette-Citron (1976–1983) ==
+In 1976, Veillette partnered with fellow architect and guitarist Harvey Citron to form Veillette-Citron Guitars. The firm debuted at the Summer NAMM show that year and quickly drew attention for handcrafted guitars and basses using exotic tonewoods such as koa and walnut.<ref>{{cite journal |last=Rorick |first=Baker |title=Sculptured Beauties: The Age of Veillette-Citron Guitars |journal=Guitar Shop |date=November 1997 |page=84}}</ref>
 
-==References==
+The company was notable for:
+* Early use of neck-through-body construction, enhancing sustain and stability.  
+* Proprietary humbucking pickups with coil-tap and phase options.  
+* Hand-tooled brass hardware and fully adjustable bridges.<ref name="FretboardJournal2010" />  
+
+One of Veillette-Citron’s most significant innovations was the creation of the first production electric baritone guitar, the “Shark,” designed in 1978 at the request of [[John Sebastian]].<ref name="FretboardJournal2010" /> The Shark and other Veillette-Citron models were used by artists including [[Eddie Van Halen]], [[James Taylor]], Tina Weymouth of Talking Heads, Michael Anthony of Van Halen, and members of Blondie and the B-52’s.<ref name="FretboardJournal2010" />
+
+Despite critical success, the partnership ended in 1983. Roughly 500 instruments were built during its seven-year run, which remain highly sought after by collectors.
+
+== Performance career ==
+After Veillette-Citron dissolved, Veillette focused on performing. He led the band The Phantoms, which became a popular act in New York’s Hudson Valley. The group performed both in full-band and a cappella formats at venues such as the Bottom Line, the Lone Star Café, and Radio City Music Hall, and appeared regularly on Soupy Sales’ NBC radio show.<ref name="FretboardJournal2010" />
+
+During this period he also worked as a session musician. His credits include guitar and vocals on Krishna Das’s ''All One'' (2005), produced by Walter Becker of Steely Dan, as well as recordings with John Sebastian and Jorma Kaukonen.<ref name="FretboardJournal2010" />
+
+== Woodstock Music Products and Avante (1991–1995) ==
+Veillette returned to instrument building in 1991 through a partnership with bass builder Stuart Spector at Woodstock Music Products. There he introduced the “Deep-6” baritone conversion neck for Fender-style guitars.<ref>{{cite journal |last=Thomas |first=Bob |title=Veillette Gryphon High 12, Acoustic 12-string |journal=Performing Musician |date=April 2009}}</ref>
+
+He also collaborated with Michael Tobias to design the Avante line of acoustic, baritone, and bass guitars for Alvarez. This was his first experience with overseas production, balancing boutique design principles with large-scale manufacturing.
+
+== Veillette Guitars (1995–present) ==
+In 1995, Veillette founded Veillette Guitars in Woodstock, New York. The shop remains small, typically three to four people producing five or six instruments per month, including production manager Ande Chase and guitarist-luthier Jimmy Eppard.<ref>{{cite web |title=About Veillette Guitars |url=https://www.veilletteguitars.com/about.shtml |publisher=Veillette Guitars |access-date=2025-08-31}}</ref>
+
+=== Notable models ===
+* '''Gryphon''' – A short-scale (18.5") 12-string tuned D–D in unison pairs, producing a high-pitched, mandolin-like sound.<ref>{{cite journal |last=Kotapish |first=Paul |title=Veillette Acoustic Gryphon High 12 Review |journal=Acoustic Guitar |date=November 2007}}</ref> The model was later licensed for Korean production under the Avante name.<ref>{{cite magazine |last=Gore |first=Joe |title=Veillette Avante Gryphon Review |magazine=Premier Guitar |date=March 2015}}</ref>
+* '''Aero''' – A chambered electric-acoustic hybrid with a spruce top and pin bridge, designed for feedback-resistant amplified performance.<ref>{{cite magazine |title=Veillette Releases the Aero Guitar |magazine=Premier Guitar |date=2014}}</ref>
+* '''Paris Bass''' – A chambered bass combining magnetic and piezo pickups for both electric punch and acoustic resonance.<ref>{{cite web |title=Veillette Paris Bass |url=https://veilletteguitars.com/electric_bass_paris.shtml |publisher=Veillette Guitars |access-date=2025-08-31}}</ref>
+* '''Flyer''' – A compact acoustic guitar with shallow body, radiused top, and oval soundhole, praised for its mid-range forward “bluesy bark.”<ref>{{cite web |title=Flyer Acoustic |url=https://veilletteguitars.com/flyer_acoustic.shtml |publisher=Veillette Guitars |access-date=2025-08-31}}</ref>
+
+Veillette’s designs often include a zero fret for consistent intonation and a single-bolt neck joint that allows easy adjustment.
+
+== Design philosophy ==
+Veillette is noted for systematically manipulating scale length as a design variable, creating families of instruments from high-tuned 12-strings to extended-range baritones. He has described the approach as analogous to the difference between a violin and a viola: structurally similar, but voiced to distinct ranges.<ref name="FretboardJournal2010" />
+
+== Reception and notable users ==
+Veillette’s instruments have been documented in use by a range of artists:
+
+* [[John Sebastian]] collaborated on the Shark baritone in 1978 and has continued to perform on Veillette baritones.<ref name="FretboardJournal2010" /><ref>{{cite web |title=John Sebastian and Veillette Baritone Acoustic |url=https://www.youtube.com/watch?v=HQbyEFHUFv8 |publisher=YouTube |date=2018}}</ref>
+* [[Eddie Van Halen]] used a Veillette-Citron Shark and later commissioned custom baritone 12-strings in the 1990s.<ref>{{cite magazine |last=Gore |first=Joe |title=Baritone Boss |magazine=Premier Guitar |date=2014}}</ref>
+* [[James Taylor]] has played both Veillette-Citron baritones and Gryphon models.<ref name="FretboardJournal2010" />
+* [[Kaki King]] has written songs on the Gryphon, stating that “those songs couldn’t exist on anything else.”<ref>{{cite web |title=Kaki King's Stage Guitars |url=https://acousticguitar.com/kaki-kings-stage-guitars/ |publisher=Acoustic Guitar |date=2012}}</ref> She performed the instrument in her music video “Great Round Burn” at TEDxManhattan with ETHEL.<ref>{{cite web |title=Great Round Burn: Kaki King and ETHEL at TEDxManhattan |url=https://www.youtube.com/watch?v=_eKBbQKWOj0 |publisher=TEDx |date=2013}}</ref>
+* [[Dave Matthews]] uses the Gryphon for high-tuned textures. His guitar technician described it in a ''Premier Guitar'' rig rundown as having “a mandolin vibe but playable with standard chords.”<ref>{{cite web |title=Dave Matthews Band Rig Rundown |url=https://www.youtube.com/watch?v=NcXlq7rWUNk |publisher=Premier Guitar |date=2014}}</ref> A ''Relix'' review called it a “ukulele from Mars” in solo performance.<ref>{{cite web |title=Dave Matthews at 50: Ten of His Best Covers |url=https://relix.com/blogs/detail/dave_matthews_at_50_ten_of_his_best_covers_including_john_prine_willie_nelson_and_phish/ |publisher=Relix |date=2017}}</ref>
+* [[Vince Gill]] has toured with Veillette Elan and Avante Gryphon models, including a demonstration at Gruhn Guitars.<ref>{{cite web |title=Veillette Newsletter, March 2018 |url=https://www.veilletteguitars.com/newsletter-0318/ |publisher=Veillette Guitars |date=2018}}</ref>
+* [[Steve Miller]] has used Veillette models including the Gryphon, Terz, and Baritone Shark.<ref>{{cite web |title=Veillette Newsletter, March 2018 |url=https://www.veilletteguitars.com/newsletter-0318/ |publisher=Veillette Guitars |date=2018}}</ref>
+
+== Critical reception ==
+''Acoustic Guitar'' described the Gryphon as “a striking, high-tuned 12-string that creates new tonal territory.”<ref>{{cite journal |last=Kotapish |first=Paul |title=Veillette Acoustic Gryphon High 12 Review |journal=Acoustic Guitar |date=November 2007}}</ref>  
+''Premier Guitar'' praised the Avante Gryphon’s “glistening, bell-like high end” and identified Veillette as the luthier “most invested in the electric baritone.”<ref>{{cite magazine |last=Gore |first=Joe |title=Veillette Avante Gryphon Review |magazine=Premier Guitar |date=March 2015}}</ref><ref>{{cite magazine |last=Gore |first=Joe |title=Baritone Boss |magazine=Premier Guitar |date=2014}}</ref>  
+''Fretboard Journal'' published a long-form profile of his work, and ''Vintage Guitar'' has documented the Veillette-Citron era.<ref name="FretboardJournal2010" />
+
+== Legacy ==
+Veillette’s integration of architectural design methods with performance experience has made him a distinctive figure in modern luthiery. His innovations in baritone guitars and scale-length variation have influenced both boutique builders and large-scale manufacturers. The continued use of his designs by prominent artists has reinforced his reputation as a builder of “tools for musicians.”<ref name="FretboardJournal2010" />
+
+== References ==
 {{Reflist}}
 
-==External links==
-*[https://www.namm.org/library/oral-history/joe-veillette Joe Veillette Interview - NAMM Oral History Library (2016)]
+== External links ==
+* [https://www.namm.org/library/oral-history/joe-veillette Joe Veillette Interview – NAMM Oral History Library]
 
 {{DEFAULTSORT:Veillette, Joe}}
 [[Category:American luthiers]]
@@ -102,4 +84,3 @@ Veillette then established Veillette Guitars, in Woodstock NY.  He has focused o
 [[Category:1946 births]]
 [[Category:Living people]]
 [[Category:Businesspeople from New York City]]
-[[Category:Veillette family]]
